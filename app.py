@@ -6,7 +6,7 @@ import docx  # For DOCX files
 import requests  # For live job listings
 
 # Set your OpenAI API key here
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+openai.api_key = st.secrets[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]
 
 st.set_page_config(page_title="Job Finder AI", layout="centered")
 st.markdown("""
